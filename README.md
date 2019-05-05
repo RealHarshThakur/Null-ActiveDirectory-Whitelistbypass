@@ -39,19 +39,33 @@ https://gist.github.com/mycryptonite/3612e490fafd6c91d1a674b967752d4a
 For detailed explanatioin, watch this:
 https://www.youtube.com/watch?v=3gz1QmiMhss&t=661s
 
-Other references, techniques and interesting articles can be found here:
+## Other references, techniques and interesting articles can be found here:
 https://www.secureauth.com/blog/playing-relayed-credentials
+
 https://www.microsoft.com/en-us/download/details.aspx?id=46899
+
 https://www.blackhillsinfosec.com/evade-application-whitelisting-using-regsvr32/
+
 https://byt3bl33d3r.github.io/author/byt3bl33d3r.html
+
 https://hausec.com/
+
 https://adsecurity.org/
+
 https://cobbr.io/SharpSploit.html
+
 https://www.hackingarticles.in/post-exploitation-using-wmic-system-command/
+
 https://blog.conscioushacker.io/index.php/category/application-whitelisting/
+
 https://enigma0x3.net/
+
 http://archive.is/subt0x10.blogspot.nl
+
 https://github.com/khr0x40sh/WhiteListEvasion
+
 https://medium.com/@Bank_Security/undetectable-c-c-reverse-shells-fab4c0ec4f15
+
 https://web.archive.org/web/20161214101107/http://thrysoee.dk/InsideCOM+/ch05e.htm
+
 https://enigma0x3.net/2017/08/03/wsh-injection-a-case-study/
